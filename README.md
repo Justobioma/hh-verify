@@ -1,13 +1,2 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# hh-verify
+This is a simple demo to show how to verify a contract on the Mumbai Polygon blockchain. Here I made use of Hardhat, its various dependencies and ether to enable the necessary read-write capabilities on the blockchain. 
